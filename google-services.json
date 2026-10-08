@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511807984972",
+    "project_id": "ai-civic-app",
+    "storage_bucket": "ai-civic-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511807984972:android:bace1f6baf9e8b47702be9",
+        "android_client_info": {
+          "package_name": "com.example.AICIVICAPP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjp0r-wqEI1ZzDt1U73lT9NnD84uSbVJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
